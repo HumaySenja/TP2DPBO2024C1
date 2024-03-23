@@ -4,3 +4,5 @@ Saya Setyawan Humay Senja dengan NIM [2203874] mengerjakan LP1 dalam mata kuliah
 ## Penjelasan Program
 karena program ini saat update menggunakan nim jadinya NIM tidak bisa diubah
 
+Dokumentasi:
+https://drive.google.com/file/d/1k8G9HA0kPdVqRuMOJ5kj0GUpo87KxXJ0/view?usp=sharing
